@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:scrollbars="vertical">
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/txtSurey"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:src="@drawable/survey"
+        android:text="@string/hello_blank_fragment"
+        android:textColor="@color/colorPrimary" />
+</ScrollView>
